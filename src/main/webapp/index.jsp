@@ -12,6 +12,10 @@
     <p>Please fill in this form</p>
     <hr>
 
+    <label for="Name"><b>Email</b></label>
+    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
