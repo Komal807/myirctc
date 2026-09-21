@@ -12,8 +12,11 @@
     <p>Please fill in this form</p>
     <hr>
 
-    <label for="Name"><b>Email</b></label>
-    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+    <label for="Name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Name" name="Name" id="name" required>
+
+    <label for="aadhar"><b>Aadhar</b></label>
+    <input type="text" placeholder="Enter Aadharnumber" name="aadhar" id="aadhar" required>
 
 
     <label for="email"><b>Email</b></label>
